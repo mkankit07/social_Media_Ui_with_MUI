@@ -4,7 +4,7 @@ import MobileStepper from '@mui/material/MobileStepper';
 import Button from '@mui/material/Button';
 import KeyboardArrowLeft from '@mui/icons-material/KeyboardArrowLeft';
 import KeyboardArrowRight from '@mui/icons-material/KeyboardArrowRight';
-import { Avatar } from '@mui/material';
+
 
 const Reel=()=>  {
   const theme = useTheme();
