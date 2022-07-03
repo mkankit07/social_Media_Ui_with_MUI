@@ -76,7 +76,7 @@ export const Post = () => {
       }} variant="outlined" borderRadius="0"  >
         <CardHeader sx={{ paddingLeft: 0 }}
           avatar={
-            <Avatar sx={{ bgcolor: "red" }} aria-borderRadius="0" label="recipe">
+            <Avatar sx={{ bgcolor: "red" }} label="recipe">
               A
             </Avatar>
           }
